@@ -1,0 +1,15 @@
+.rating {
+  font-size: 30px;
+  color: #fff;
+  padding: 5px 10px;
+  background: #333;
+  border-radius: 5px;
+}
+.style{
+  text-align: center;
+  border: 20px;
+  border-color: blue;
+  margin: 50px;
+  padding: 20px;
+
+}
